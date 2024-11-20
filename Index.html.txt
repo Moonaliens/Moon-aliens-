@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon Aliens Meme Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: black;
+            color: white;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            background: #121212;
+        }
+        header a {
+            color: limegreen;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+            background: url('https://via.placeholder.com/1920x1080') no-repeat center/cover;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: neon-green;
+        }
+        .hero button {
+            background: limegreen;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+        .features {
+            display: flex;
+            justify-content: center;
+            margin: 50px 0;
+        }
+        .feature {
+            margin: 0 15px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #121212;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>Moon Aliens</div>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#tokenomics">Tokenomics</a>
+            <a href="#roadmap">Roadmap</a>
+            <a href="#community">Community</a>
+            <a href="#buy">Buy Now</a>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <h1>Moon Aliens Are Here!</h1>
+        <p>The intergalactic meme coin that's taking the universe by storm.</p>
+        <button>Buy $MOONALIENS</button>
+    </div>
+
+    <section class="features">
+        <div class="feature">
+            <h3>Low Fees</h3>
+            <p>Enjoy cost-effective transactions.</p>
+        </div>
+        <div class="feature">
+            <h3>Fun Community</h3>
+            <p>Join the most playful holders in the galaxy.</p>
+        </div>
+        <div class="feature">
+            <h3>Intergalactic Growth</h3>
+            <p>Beam up to the moon and beyond!</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Moon Aliens Meme Coin. All rights reserved.</p>
+        <p>Follow us: Twitter | Discord | Telegram</p>
+    </footer>
+</body>
+</html>
